@@ -37,11 +37,4 @@ public class TestSquare {
         assertTrue("Squares aren't equal", square1.equalsSquare(square2));
     }
 
-    @Test
-    public void checkSquaresAreEqualZero(){
-        Square square1 = SquareFactory.newSquare(0.0);
-        Square square2 = SquareFactory.newSquare(0.0);
-        assertTrue("Squares aren't equal", square1.equalsSquare(square2));
-    }
-
 }
