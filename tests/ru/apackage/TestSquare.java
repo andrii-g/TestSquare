@@ -25,13 +25,13 @@ public class TestSquare {
     }
 
     @Test
-    public void checkSquareOfSquareZero(){
+    public void verifySquareOfSquareZero(){
         Square square = SquareFactory.newSquare(0.0);
         assertEquals("Expected value is not equal to actual", 0.0, square.square(), DELTA);
     }
 
     @Test
-    public void checkSquaresAreEqualPositive(){
+    public void verifySquaresAreEqualPositive(){
         Square square1 = SquareFactory.newSquare(9.99);
         Square square2 = SquareFactory.newSquare(9.99);
         assertTrue("Squares aren't equal", square1.equalsSquare(square2));

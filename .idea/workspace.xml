@@ -26,7 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71f3212c-3e4a-4430-bebb-e472d8fc71fc" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/squaretest/ru/apackage/TestSquare.class" afterPath="$PROJECT_DIR$/out/test/squaretest/ru/apackage/TestSquare.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/ru/apackage/TestSquare.java" afterPath="$PROJECT_DIR$/tests/ru/apackage/TestSquare.java" />
     </list>
@@ -52,8 +51,8 @@
       <file leaf-file-name="TestSquare.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/ru/apackage/TestSquare.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+            <state relative-caret-position="336">
+              <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -216,32 +215,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.TestSquare">
-    <configuration default="false" name="TestSquare.checkSideLengthNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.apackage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="squaretest" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.apackage" />
-      <option name="MAIN_CLASS_NAME" value="ru.apackage.TestSquare" />
-      <option name="METHOD_NAME" value="checkSideLengthNegative" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
     <configuration default="false" name="TestSquare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -333,6 +306,32 @@
       <option name="PACKAGE_NAME" value="ru.apackage" />
       <option name="MAIN_CLASS_NAME" value="ru.apackage.TestSquare" />
       <option name="METHOD_NAME" value="checkSquaresAreEqualNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSquare.verifySideLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.apackage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="squaretest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.apackage" />
+      <option name="MAIN_CLASS_NAME" value="ru.apackage.TestSquare" />
+      <option name="METHOD_NAME" value="verifySideLength" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -551,19 +550,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSideLengthNegative" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestSquare" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqual" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualZero" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualNegative" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestSquare" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqual" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualZero" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualNegative" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSquare.verifySideLength" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.TestSquare" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualNegative" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualZero" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqual" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSideLengthNegative" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSquare.verifySideLength" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualNegative" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqualZero" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestSquare.checkSquaresAreEqual" />
       </list>
     </recent_temporary>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -612,18 +611,22 @@
       <option name="project" value="LOCAL" />
       <updated>1498425048311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="TestSquare">
+      <created>1498425157766</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1498425157766</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
     <history-entry file="TestSquare - 2017.06.25 at 18h 47m 50s.xml">
       <configuration name="TestSquare" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestSquare_checkSquaresAreEqual - 2017.06.25 at 17h 36m 25s.xml">
-      <configuration name="TestSquare.checkSquaresAreEqual" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestSquare_checkSquaresAreEqual - 2017.06.25 at 17h 36m 37s.xml">
-      <configuration name="TestSquare.checkSquaresAreEqual" configurationId="JUnit" />
+    <history-entry file="TestSquare - 2017.06.26 at 00h 22m 00s.xml">
+      <configuration name="TestSquare" configurationId="JUnit" />
     </history-entry>
     <history-entry file="TestSquare_checkSquaresAreEqual - 2017.06.25 at 17h 36m 50s.xml">
       <configuration name="TestSquare.checkSquaresAreEqual" configurationId="JUnit" />
@@ -645,6 +648,9 @@
     </history-entry>
     <history-entry file="TestSquare_checkSquaresAreEqualZero - 2017.06.25 at 17h 39m 40s.xml">
       <configuration name="TestSquare.checkSquaresAreEqualZero" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSquare_verifySideLength - 2017.06.26 at 00h 21m 50s.xml">
+      <configuration name="TestSquare.verifySideLength" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -719,7 +725,7 @@
         <state relative-caret-position="306">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -755,7 +761,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -773,8 +779,8 @@
         <state relative-caret-position="119">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -802,7 +808,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -820,8 +826,8 @@
         <state relative-caret-position="255">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -849,7 +855,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -867,8 +873,8 @@
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -896,7 +902,7 @@
         <state relative-caret-position="240">
           <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -914,8 +920,8 @@
         <state relative-caret-position="225">
           <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
           <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -961,23 +967,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/SquareFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="false" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#320#321#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/SquareI.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
           <folding>
             <element signature="e#315#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/square.jar!/ru/socialquantum/testtasks/SquareFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#274#275#0" expanded="false" />
+            <element signature="e#320#321#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -990,20 +1006,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/ru/apackage/SquareTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/ru/apackage/TestSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state relative-caret-position="336">
+          <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
